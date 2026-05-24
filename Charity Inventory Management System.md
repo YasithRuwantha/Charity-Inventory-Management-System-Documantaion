@@ -114,8 +114,9 @@ These are smaller features under each EPIC.
 |MRF ID|MRF Name|Description|
 |---|---|---|
 |MRF 1.1|User Login|Allow users to log into the system|
-|MRF 1.2|Role Management|Manage Admin, Inventory Staff, and Volunteers|
-|MRF 1.3|User Profile Management|Update user information|
+|MRF 1.2|User Register|Allow users to register into the system|
+|MRF 1.3|Role Management|Manage Admin, Inventory Staff, and Volunteers|
+|MRF 1.4|User Profile Management|Update user information|
 
 ---
 

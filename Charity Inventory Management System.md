@@ -93,13 +93,13 @@ Many charities currently manage donated goods manually using paper records or sp
 
 EPICs are the major modules/features of the system.
 
-|EPIC ID|EPIC Name|Description|
-|---|---|---|
-|E1|User Management|Manage users and authentication|
-|E2|Donation Management|Manage donated items and records|
-|E3|Inventory Management|Track and manage inventory stock|
-|E4|Distribution Management|Manage distribution of donated items|
-|E5|Reporting & Dashboard|Generate reports and view statistics|
+| EPIC ID | EPIC Name               | Description                          |
+| ------- | ----------------------- | ------------------------------------ |
+| E1      | User Management         | Manage users and authentication      |
+| E2      | Donation Management     | Manage donated items and records     |
+| E3      | Inventory Management    | Track and manage inventory stock     |
+| E4      | Distribution Management | Manage distribution of donated items |
+| E5      | Reporting & Dashboard   | Generate reports and view statistics |
 
 ---
 
